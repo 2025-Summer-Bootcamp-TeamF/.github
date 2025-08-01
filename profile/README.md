@@ -73,27 +73,39 @@
 
 # 📊 Monitoring
 
-# 🚀 How to Strat 
 
 
+
+# 🚀 How to Start
 
 1. Clone The Repository
-https://github.com/2025-Summer-Bootcamp-Team-F/backend.git
-https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git
+    
+    `https://github.com/2025-Summer-Bootcamp-Team-F/backend.git`
+    `https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git`
+
 2. ENV Setting
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-JWT_SECRET=
-JWT_EXPIRES_IN=
-
-PORT=8000
-NODE_ENV=development
-
-FRONTEND_URL=http://localhost
-DATABASE_URL="postgresql://teamF:2025@postgres:5432/teamFdb"
-
-OPENAI_API_KEY=
-GOOGLE_API_KEY=
+    
+    ```
+    GOOGLE_CLIENT_ID=
+    GOOGLE_CLIENT_SECRET=
+    JWT_SECRET=
+    JWT_EXPIRES_IN=
+    ```
+    
+    ```
+    PORT=8000
+    NODE_ENV=development
+    ```
+    
+    ```
+    FRONTEND_URL=http://localhost
+    DATABASE_URL="postgresql://teamF:2025@postgres:5432/teamFdb"
+    ```
+    
+    ```
+    OPENAI_API_KEY=
+    GOOGLE_API_KEY=
+    ```
 
 
 
