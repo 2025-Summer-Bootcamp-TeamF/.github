@@ -18,8 +18,8 @@
 - [ERD](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#erd)
 - [API](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#api)
 - [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#monitoring)
-- [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
 - [How To Start](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#-how-to-strat)
+- [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
 
 # 📣 Introduction
 
@@ -73,12 +73,32 @@
 
 # 📊 Monitoring
 
+# 🚀 How to Strat 
 
 
-# Members
+
+1. Clone The Repository
+https://github.com/2025-Summer-Bootcamp-Team-F/backend.git
+https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git
+2. ENV Setting
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+JWT_SECRET=
+JWT_EXPIRES_IN=
+
+PORT=8000
+NODE_ENV=development
+
+FRONTEND_URL=http://localhost
+DATABASE_URL="postgresql://teamF:2025@postgres:5432/teamFdb"
+
+OPENAI_API_KEY=
+GOOGLE_API_KEY=
 
 
-## 👥 팀원 소개 (Team Members)
+
+
+# 👥 팀원 소개 (Team Members)
 | Name | 이다하 | 김지나 | 김재범 | 변정원 | 최지웅 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Profile** | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/daha-lee.jpg" alt="이다하 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jina111.jpg" alt="김지나 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jaebeom79.jpg" alt="김재범 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/Yeeyahou.jpg" alt="변정원 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/cjw3514.jpg" alt="최지웅 프로필" width="100"/> |
@@ -88,28 +108,5 @@
 
 
 
-# 🚀 How to Strat #
-
-
-
-1. Clone The Repository
-https://github.com/2025-Summer-Bootcamp-Team-F/backend.git
-https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git
-2. ENV Setting
-Backend/.env
-POSTGRES_DB=
-POSTGRES_USER=
-POSTGRES_PASSWORD=
-POSTGRES_HOST=
-POSTGRES_PORT=
-OPENAI_API_KEY = ""
-TYPECAST_API_KEY = ""
-S3_ACCESS_KEY = ""
-S3_SECRET_KEY = ""
-S3_BUCKET = ""
-RUNWAY_API_KEY = ""
-
-3. Run Docker
-docker-compose up --build
 
 
