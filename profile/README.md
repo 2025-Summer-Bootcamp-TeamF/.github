@@ -44,6 +44,15 @@
 # Tech Stack
 
 ---
+🛠️ Tech stack
+Area	Tech Stack
+Frontend	         
+Backend	   
+AI	 
+DevOps	   
+DB	 
+Monitoring	     
+etc	     
 
 # ERD
 
