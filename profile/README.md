@@ -44,9 +44,7 @@
 # Tech Stack
 
 ---
----
 
-**🛠️ Tech stack**
 
 [제목 없음](https://www.notion.so/dbe55ad687e541af8922a81d0118b762?pvs=21)
 
