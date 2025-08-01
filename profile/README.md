@@ -57,12 +57,15 @@
 | **etc** | [![n8n](https://img.shields.io/badge/n8n-FF6353?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://swagger.io/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/) |
 
 
+
 # 💾 ERD
+
 
 
 <img width="2048" height="908" alt="image" src="https://github.com/user-attachments/assets/3dd981da-85f7-4a19-994a-c8aad6f519bf" />
 
 # ✨ API
+
 
 
 <img width="1432" height="1383" alt="image" src="https://github.com/user-attachments/assets/8bd565e6-d9b9-4186-80f8-d045830aca84" />
