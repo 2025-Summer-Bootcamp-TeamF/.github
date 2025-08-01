@@ -1,9 +1,11 @@
 
 <div align="center">
-# YooTool #
-  유튜브 채널 관리 도우미
+# YooTool 
+  
 </div>
-
+<div align="center">
+유튜브 채널 관리 도우미
+</div>
 <img width="845" height="484" alt="image" src="https://github.com/user-attachments/assets/028a3090-8995-4419-b536-b2b1a019aefe" />
 
 
