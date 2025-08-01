@@ -9,7 +9,7 @@
 
 ---
 
-- Introduction
+- Introduction[Click here to try](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#introduction)
 - Demo
 - System Architecture
 - Tech Stack
