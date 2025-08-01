@@ -1,5 +1,3 @@
-# 2025-Summer-Bootcamp-Team-F #
-
 # YooTool
 
 <img width="845" height="484" alt="image" src="https://github.com/user-attachments/assets/028a3090-8995-4419-b536-b2b1a019aefe" />
@@ -16,6 +14,7 @@
 - [ERD](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#erd)
 - [API](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#api)
 - [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#monitoring)
+- [How To Start]
 - [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
 
 # Introduction
@@ -77,5 +76,5 @@
 | Name | 이다하 | 김지나 | 김재범 | 변정원 | 최지웅 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Profile** | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/daha-lee.jpg" alt="이다하 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jina111.jpg" alt="김지나 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jaebeom79.jpg" alt="김재범 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/Yeeyahou.jpg" alt="변정원 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/cjw3514.jpg" alt="최지웅 프로필" width="100"/> |
-| **Role** | Leader <br> Backend | Frontend | Frontend | Backend | Backend |
+| **Role** | Leader <br> Backend <br> DevOps | Frontend | Frontend | Backend <br> DevOps | Backend <br> DevOps |
 | **GitHub** | [@daha-lee](https://github.com/daha-lee) | [@jina111](https://github.com/jina111) | [@jaebeom79](https://github.com/jaebeom79) | [@Yeeyahou](https://github.com/Yeeyahou) | [@cjw3514](https://github.com/cjw3514) |
