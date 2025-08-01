@@ -39,7 +39,7 @@
 
 ---
 
-![image.png](attachment:03d6a1ce-b68a-483c-ae10-74665b625b59:image.png)
+<img width="963" height="550" alt="image" src="https://github.com/user-attachments/assets/6f7d6cb7-cc4e-4d1e-a8bd-322c6533d53d" />
 
 # Tech Stack
 
@@ -48,14 +48,16 @@
 # ERD
 
 ---
+<img width="2048" height="908" alt="image" src="https://github.com/user-attachments/assets/3dd981da-85f7-4a19-994a-c8aad6f519bf" />
 
-![image.png](attachment:3eeeb133-e238-469e-a645-28e158c2aae8:image.png)
+
 
 # API
 
 ---
+<img width="715" height="1394" alt="image" src="https://github.com/user-attachments/assets/7308e647-7595-4fb4-88e1-9192e29290af" />
 
-![image.png](attachment:7d8b0186-32d7-44ff-ba17-eac9aba32cc2:image.png)
+
 
 # Monitoring
 
