@@ -79,9 +79,10 @@
 # 🚀 How to Start
 
 1. Clone The Repository
-    
+    ```
     https://github.com/2025-Summer-Bootcamp-Team-F/backend.git
     https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git
+    ```
 
 2. ENV Setting
     
