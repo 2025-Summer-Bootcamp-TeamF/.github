@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>YooTool</h1>
-</div>
+
 <div align="center">
 유튜브 채널 관리 도우미
 
