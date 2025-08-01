@@ -10,8 +10,8 @@
 ---
 
 - [Introduction](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#introduction)
-- Demo
-- System Architecture
+- [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
+- [System Architecture](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#System Architecture)
 - Tech Stack
 - ERD
 - API
