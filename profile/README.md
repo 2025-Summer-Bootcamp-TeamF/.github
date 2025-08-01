@@ -5,7 +5,7 @@
 
 # **Table of Contents**
 
----
+--
 
 - [Introduction](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#introduction)
 - [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
@@ -19,7 +19,7 @@
 
 # Introduction
 
----
+--
 
 ### **Medium**
 
@@ -78,3 +78,30 @@
 | **Profile** | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/daha-lee.jpg" alt="이다하 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jina111.jpg" alt="김지나 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jaebeom79.jpg" alt="김재범 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/Yeeyahou.jpg" alt="변정원 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/cjw3514.jpg" alt="최지웅 프로필" width="100"/> |
 | **Role** | Leader <br> Backend <br> DevOps | Frontend | Frontend | Backend <br> DevOps | Backend <br> DevOps |
 | **GitHub** | [@daha-lee](https://github.com/daha-lee) | [@jina111](https://github.com/jina111) | [@jaebeom79](https://github.com/jaebeom79) | [@Yeeyahou](https://github.com/Yeeyahou) | [@cjw3514](https://github.com/cjw3514) |
+
+
+
+
+# How to Strat #
+
+---
+
+1. Clone The Repository
+https://github.com/2025-Summer-Bootcamp-Team-F/backend.git
+https://github.com/2025-Summer-Bootcamp-Team-F/frontend.git
+2. ENV Setting
+Backend/.env
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_HOST=
+POSTGRES_PORT=
+OPENAI_API_KEY = ""
+TYPECAST_API_KEY = ""
+S3_ACCESS_KEY = ""
+S3_SECRET_KEY = ""
+S3_BUCKET = ""
+RUNWAY_API_KEY = ""
+
+3. Run Docker
+docker-compose up --build
