@@ -8,7 +8,7 @@
 <img width="845" height="484" alt="image" src="https://github.com/user-attachments/assets/028a3090-8995-4419-b536-b2b1a019aefe" />
 </div>
 
-# **Table of Contents**
+# **📖 Table of Contents**
 
 - [Introduction](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#introduction)
 - [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
@@ -20,7 +20,7 @@
 - [How To Start]
 - [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
 
-# Introduction
+# 📣 Introduction
 
 
 
@@ -33,11 +33,11 @@
 - 썸네일 유형 별 시청자 반응 분석
 - 경쟁채널 등록 및 분석/비교
 
-# Demo
+# 🎥Demo
 
 
 
-# **System Architecture**
+# **💻 System Architecture**
 
 
 
@@ -57,18 +57,18 @@
 | **etc** | [![n8n](https://img.shields.io/badge/n8n-FF6353?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)](https://slack.com/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://swagger.io/) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/) |
 
 
-# ERD
+# 💾 ERD
 
 
 <img width="2048" height="908" alt="image" src="https://github.com/user-attachments/assets/3dd981da-85f7-4a19-994a-c8aad6f519bf" />
 
-# API
+# ✨ API
 
 
 <img width="1432" height="1383" alt="image" src="https://github.com/user-attachments/assets/8bd565e6-d9b9-4186-80f8-d045830aca84" />
 <img width="1431" height="1299" alt="image" src="https://github.com/user-attachments/assets/e1c997cf-5706-4753-812d-2fe6b3f8296d" />
 
-# Monitoring
+# 📊 Monitoring
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-# How to Strat #
+# 🚀 How to Strat #
 
 
 
