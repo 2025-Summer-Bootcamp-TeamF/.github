@@ -18,8 +18,8 @@
 - [ERD](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#erd)
 - [API](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#api)
 - [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#monitoring)
-- [How To Start]
 - [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
+- [How To Start](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#-how-to-strat)
 
 # 📣 Introduction
 
