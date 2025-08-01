@@ -1,7 +1,7 @@
 
 <div align="center">
   2025-Summer-Bootcamp-Team-F 🔥
-  <h1>YooTool</h1>
+  <h1> ⏯ YooTool ⏹ </h1>
 
 유튜브 채널 관리 도우미
 
