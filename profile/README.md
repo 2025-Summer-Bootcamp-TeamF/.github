@@ -44,7 +44,7 @@
 
 <img width="963" height="550" alt="image" src="https://github.com/user-attachments/assets/6f7d6cb7-cc4e-4d1e-a8bd-322c6533d53d" />
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 
 
