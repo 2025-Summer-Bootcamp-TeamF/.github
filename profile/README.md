@@ -13,10 +13,10 @@
 - [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
 - [System Architecture](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#system-architecture)
 - [Tech Stack](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#tech-stack)
-- ERD
-- API
-- Monitoring
-- Members
+- [ERD](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#erd)
+- [API](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#api)
+- [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#monitoring)
+- [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
 
 # Introduction
 
