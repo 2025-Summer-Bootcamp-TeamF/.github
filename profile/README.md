@@ -12,7 +12,7 @@
 - [Introduction](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#introduction)
 - [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
 - [System Architecture](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#system-architecture)
-- Tech Stack
+- [Tech Stack](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#tech-stack)
 - ERD
 - API
 - Monitoring
