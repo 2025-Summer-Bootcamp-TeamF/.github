@@ -74,9 +74,8 @@
 
 ---
 ## 👥 팀원 소개 (Team Members)
-
 | Name | 이다하 | 김지나 | 김재범 | 변정원 | 최지웅 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Profile** | <img src="https://github.com/orgs/2025-Summer-Bootcamp-TeamF/raw/main/.github/profile/daha-lee.jpg" alt="이다하 프로필" width="100"/> | <img src="https://github.com/orgs/2025-Summer-Bootcamp-TeamF/raw/main/.github/profile/jina111.jpg" alt="김지나 프로필" width="100"/> | <img src="https://github.com/orgs/2025-Summer-Bootcamp-TeamF/raw/main/.github/profile/jaebeom79.jpg" alt="김재범 프로필" width="100"/> | <img src="https://github.com/orgs/2025-Summer-Bootcamp-TeamF/raw/main/.github/profile/Yeeyahou.jpg" alt="변정원 프로필" width="100"/> | <img src="https://github.com/orgs/2025-Summer-Bootcamp-TeamF/raw/main/.github/profile/cjw3514.jpg" alt="최지웅 프로필" width="100"/> |
+| **Profile** | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/daha-lee.jpg" alt="이다하 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jina111.jpg" alt="김지나 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/jaebeom79.jpg" alt="김재범 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/Yeeyahou.jpg" alt="변정원 프로필" width="100"/> | <img src="https://raw.githubusercontent.com/2025-Summer-Bootcamp-TeamF/.github/main/profile/cjw3514.jpg" alt="최지웅 프로필" width="100"/> |
 | **Role** | Leader <br> Backend | Frontend | Frontend | Backend | Backend |
 | **GitHub** | [@daha-lee](https://github.com/orgs/2025-Summer-Bootcamp-TeamF/people/daha-lee) | [@jina111](https://github.com/orgs/2025-Summer-Bootcamp-TeamF/people/jina111) | [@jaebeom79](https://github.com/orgs/2025-Summer-Bootcamp-TeamF/people/jaebeom79) | [@Yeeyahou](https://github.com/orgs/2025-Summer-Bootcamp-TeamF/people/Yeeyahou) | [@cjw3514](https://github.com/orgs/2025-Summer-Bootcamp-TeamF/people/cjw3514) |
