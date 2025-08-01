@@ -44,15 +44,11 @@
 # Tech Stack
 
 ---
-🛠️ Tech stack
-Area	Tech Stack
-Frontend	         
-Backend	   
-AI	 
-DevOps	   
-DB	 
-Monitoring	     
-etc	     
+---
+
+**🛠️ Tech stack**
+
+[제목 없음](https://www.notion.so/dbe55ad687e541af8922a81d0118b762?pvs=21)
 
 # ERD
 
