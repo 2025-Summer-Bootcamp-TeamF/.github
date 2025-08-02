@@ -11,14 +11,13 @@
 
 # **📖 Table of Contents**
 - [Introduction](https://github.com/2025-Summer-Bootcamp-TeamF#-introduction)
-- [Demo](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#demo)
-- [System Architecture](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#system-architecture)
-- [Tech Stack](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#tech-stack)
-- [ERD](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#erd)
-- [API](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#api)
-- [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#monitoring)
-- [How To Start](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#-how-to-strat)
-- [Members](https://github.com/2025-Summer-Bootcamp-TeamF/.github/blob/main/profile/README.md#members)
+- [Demo](https://github.com/2025-Summer-Bootcamp-TeamF#-demo)
+- [System-Architecture](https://github.com/2025-Summer-Bootcamp-TeamF#=system-architecture)
+- [ERD](https://github.com/2025-Summer-Bootcamp-TeamF#-github#erd)
+- [API](https://github.com/2025-Summer-Bootcamp-TeamF#-api)
+- [Monitoring](https://github.com/2025-Summer-Bootcamp-TeamF#-monitoring)
+- [How To Start](https://github.com/2025-Summer-Bootcamp-TeamF#-how-to-strat)
+- [Members](https://github.com/2025-Summer-Bootcamp-TeamF#-members)
 
 # 📣 Introduction
 
