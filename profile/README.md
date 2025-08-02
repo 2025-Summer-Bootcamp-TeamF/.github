@@ -49,7 +49,7 @@
 <img width="3790" height="1866" alt="image" src="https://github.com/user-attachments/assets/40a477ef-c79f-480a-9a84-e3772f113365" />
 <img width="3759" height="1829" alt="image" src="https://github.com/user-attachments/assets/ccc12b57-1ada-4281-b4e7-fb91ee9ffd86" />
 
-# 썸네일 분류 페이지
+# 썸네일 분석 페이지
 <img width="3684" height="1823" alt="image" src="https://github.com/user-attachments/assets/2d718558-ce64-4efd-bad9-6fab283c7000" />
 
 
