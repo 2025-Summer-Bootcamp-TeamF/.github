@@ -40,7 +40,18 @@
 
 ![Image](https://github.com/user-attachments/assets/21791542-db45-442b-b89c-46a1e53f7a3e)
 
+# 메인 페이지
+<img width="3737" height="1857" alt="image" src="https://github.com/user-attachments/assets/7a24157c-09e3-402c-b091-cc9a2db90fbe" />
 
+# 댓글 분석 페이지
+<img width="3722" height="1831" alt="image" src="https://github.com/user-attachments/assets/79b06e84-3900-4905-b69e-5c09a9e280e3" />
+<img width="3790" height="1866" alt="image" src="https://github.com/user-attachments/assets/40a477ef-c79f-480a-9a84-e3772f113365" />
+<img width="3759" height="1829" alt="image" src="https://github.com/user-attachments/assets/ccc12b57-1ada-4281-b4e7-fb91ee9ffd86" />
+
+
+
+
+#
 # **💻 System Architecture**
 
 
