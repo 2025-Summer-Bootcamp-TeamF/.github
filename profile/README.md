@@ -49,6 +49,14 @@
 <img width="3790" height="1866" alt="image" src="https://github.com/user-attachments/assets/40a477ef-c79f-480a-9a84-e3772f113365" />
 <img width="3759" height="1829" alt="image" src="https://github.com/user-attachments/assets/ccc12b57-1ada-4281-b4e7-fb91ee9ffd86" />
 
+# 썸네일 분류 페이지
+<img width="3684" height="1823" alt="image" src="https://github.com/user-attachments/assets/2d718558-ce64-4efd-bad9-6fab283c7000" />
+# 경쟁 채널 분석
+<img width="3628" height="1771" alt="image" src="https://github.com/user-attachments/assets/64153111-8447-4df6-a446-9ad6835a9c25" />
+<img width="3600" height="1759" alt="image" src="https://github.com/user-attachments/assets/5778b062-96d8-4f03-8d47-3c31ea71a541" />
+<img width="3593" height="1757" alt="image" src="https://github.com/user-attachments/assets/795fd7fc-2003-4926-b8e3-a913797f0536" />
+<img width="3575" height="1770" alt="image" src="https://github.com/user-attachments/assets/f688a277-514d-4d22-ab85-b5a6f711e220" />
+
 
 
 
