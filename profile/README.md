@@ -51,7 +51,9 @@
 
 # 썸네일 분류 페이지
 <img width="3684" height="1823" alt="image" src="https://github.com/user-attachments/assets/2d718558-ce64-4efd-bad9-6fab283c7000" />
-# 경쟁 채널 분석
+
+
+# 경쟁 채널 분석 페이지
 <img width="3628" height="1771" alt="image" src="https://github.com/user-attachments/assets/64153111-8447-4df6-a446-9ad6835a9c25" />
 <img width="3600" height="1759" alt="image" src="https://github.com/user-attachments/assets/5778b062-96d8-4f03-8d47-3c31ea71a541" />
 <img width="3593" height="1757" alt="image" src="https://github.com/user-attachments/assets/795fd7fc-2003-4926-b8e3-a913797f0536" />
