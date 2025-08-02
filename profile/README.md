@@ -44,7 +44,8 @@
 <img width="3737" height="1857" alt="image" src="https://github.com/user-attachments/assets/7a24157c-09e3-402c-b091-cc9a2db90fbe" />
 
 # 댓글 분석 페이지
-<img width="3722" height="1831" alt="image" src="https://github.com/user-attachments/assets/79b06e84-3900-4905-b69e-5c09a9e280e3" />
+<img width="3690" height="1829" alt="image" src="https://github.com/user-attachments/assets/de4f2e8e-854d-448e-a10a-1f95663299a7" />
+<img width="3792" height="1852" alt="image" src="https://github.com/user-attachments/assets/69e07c4c-55d5-485c-8256-11efbe7b1846" />
 <img width="3790" height="1866" alt="image" src="https://github.com/user-attachments/assets/40a477ef-c79f-480a-9a84-e3772f113365" />
 <img width="3759" height="1829" alt="image" src="https://github.com/user-attachments/assets/ccc12b57-1ada-4281-b4e7-fb91ee9ffd86" />
 
